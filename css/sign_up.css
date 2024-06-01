@@ -9,6 +9,10 @@
 	color: #999999;
 	font-family: Gotham Pro;
 }
+#icon{
+	height: 40px;
+	margin: 2px;
+}
 .input{
 	margin-bottom: 15px;
 	border: 0px black solid;
